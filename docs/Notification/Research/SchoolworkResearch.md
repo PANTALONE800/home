@@ -10,7 +10,8 @@ cards:
         class: tag-category
       - text: 玉泉校区
         class: tag-target
-  - title: 牛津大学展望计划注册访问生项目宣讲会
+  - ddl: 2026-10-28
+    title: 牛津大学展望计划注册访问生项目宣讲会
     detail: 宣讲会将于2026年10月28日（周三）19:30在腾讯会议线上举行，主要面向全日制在读本科生，欢迎有意向出国深造的同学关注，详情见推文。
     href: https://mp.weixin.qq.com/s/fWnCHtzGmN-RUI-9bmZz3Q
     tags:
